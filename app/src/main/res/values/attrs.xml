@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="radar_style">
+        <attr name="backgroundColor" format="color"></attr>
+        <attr name="radius" format="integer"></attr>
+        <attr name="circleColor" format="color"></attr>
+        <attr name="startColor" format="color"></attr>
+        <attr name="endColor" format="color"></attr>
+        <attr name="lineColor" format="color"></attr>
+        <attr name="circleNum" format="integer"></attr>
+    </declare-styleable>
+</resources>

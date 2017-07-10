@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.wzq.radar.RadarView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        app:backgroundColor="#AA000000"
+        app:circleColor="#FFFFFF"
+        app:circleNum="20"
+        app:endColor="#aaff0000"
+        app:lineColor="#00ff00"
+        app:radius="200"
+        app:startColor="#aa0000ff" />
+
+</RelativeLayout>
